@@ -1,0 +1,8 @@
+{
+  "name": "Sistema de Gestão de Avaliações Corporativas",
+  "description": "Uma plataforma robusta para gestão de avaliações corporativas baseadas em base de conhecimento, utilizando IA para geração automática de questões.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
